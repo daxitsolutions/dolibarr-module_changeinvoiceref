@@ -1,4 +1,3 @@
-# Auto-generated from fr_FR on ven.  9 janv. 2026 17:18:17 CET
 CHARSET=UTF-8
 Module136392Name=Change Invoice Ref
 Module136392Desc=Module for changing the reference of a draft invoice
@@ -8,3 +7,8 @@ ChangeInvoiceRef=Change reference
 NewInvoiceRef=New reference
 Change=To modify
 Cancel=Cancel
+ChangeInvoiceRefDocumentsWarningTitle=Existing documents detected
+ChangeInvoiceRefDocumentsWarningMessage=%s document(s) already exist for invoice reference %s.\nTo avoid any problem, delete these documents first before changing the reference.\n\nChoose one of the following options:
+ChangeInvoiceRefCancelAndDeleteDocs=Cancel reference change and delete documents manually
+ChangeInvoiceRefForceRename=Rename anyway
+ChangeInvoiceRefCancelled=Invoice reference change cancelled.

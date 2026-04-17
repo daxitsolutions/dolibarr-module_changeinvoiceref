@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module>
     <name>changeinvoiceref</name>
-    <version>1.0.0</version>
+    <version>1.0.2</version>
     <description>Change Invoice Ref</description>
     <descriptionlong>Module to change draft invoice reference</descriptionlong>
     <editor>Daxit Solutions</editor>
     <url>https://daxit.be</url>
     <licence>GPL-3.0+</licence>
     <dolibarr_min>16.0</dolibarr_min>
-    <php_min>7.0</php_min>
+    <dolibarr_max>23.99</dolibarr_max>
+    <php_min>7.2</php_min>
 </module>

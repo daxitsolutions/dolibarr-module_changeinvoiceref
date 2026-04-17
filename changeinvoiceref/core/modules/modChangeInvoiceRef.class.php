@@ -18,7 +18,7 @@ class modChangeInvoiceRef extends DolibarrModules
         $this->descriptionlong = "Module to change invoice reference for draft invoices";
         $this->editor_name = 'Daxit Solutions';
         $this->editor_url = 'https://daxit.be';
-        $this->version = '1.0.0';
+        $this->version = '1.0.2';
         $this->const_name = 'MAIN_MODULE_'.strtoupper($this->name);
         $this->picto = 'generic';
         $this->module_parts = array(
@@ -30,7 +30,7 @@ class modChangeInvoiceRef extends DolibarrModules
         $this->requiredby = array();
         $this->conflictwith = array();
         $this->langfiles = array("changeinvoiceref@changeinvoiceref");
-        $this->phpmin = array(7, 0);
+        $this->phpmin = array(7, 2);
         $this->need_dolibarr_version = array(16, 0);
         $this->warnings_activation = array();
         $this->warnings_activation_ext = array();
