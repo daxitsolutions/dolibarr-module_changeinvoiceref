@@ -29,9 +29,10 @@ for d in */ ; do
     # retire le slash final
     dir_name="${d%/}"
 
-    # ignore les dossiers cachés
+    # ignore les dossiers cachés et les dossiers hors module
     case "$dir_name" in
         .*) continue ;;
+        others) continue ;;
     esac
 
     COUNT=$((COUNT + 1))
@@ -104,6 +105,7 @@ fi
 # - fichiers macOS parasites
 # - .svn
 # - node_modules
+# - others
 zip -r "$ZIP_NAME" "$MODULE_DIR" \
   -x "*/.*" \
   -x "__MACOSX/*" \
@@ -112,6 +114,7 @@ zip -r "$ZIP_NAME" "$MODULE_DIR" \
   -x "*/.git/*" \
   -x "*/.gitignore" \
   -x "*/.svn/*" \
-  -x "*/node_modules/*"
+  -x "*/node_modules/*" \
+  -x "*/others/*"
 
 echo "OK : archive créée -> $ZIP_NAME"
