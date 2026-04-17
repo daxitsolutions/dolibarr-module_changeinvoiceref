@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:22:04 CET
+CHARSET=UTF-8
+Module136392Name=請求書参照先の変更
+Module136392Desc=請求書草案の参照を変更するためのモジュール
+ChangeInvoiceRefSetup=構成変更請求書参照
+ChangeInvoiceRefInfo=このモジュールは、請求書ファイルの下書きにボタンを追加して、請求書の参照をすばやく変更します。
+ChangeInvoiceRef=参照の変更
+NewInvoiceRef=新しいリファレンス
+Change=変更するには
+Cancel=キャンセル

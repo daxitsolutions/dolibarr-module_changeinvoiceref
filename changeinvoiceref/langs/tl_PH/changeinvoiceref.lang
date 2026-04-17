@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:26:01 CET
+CHARSET=UTF-8
+Module136392Name=Baguhin ang Invoice Ref
+Module136392Desc=Module para sa pagbabago ng reference ng isang draft na invoice
+ChangeInvoiceRefSetup=Invoice ng Pagbabago ng Configuration Ref
+ChangeInvoiceRefInfo=Ang module na ito ay nagdaragdag ng isang pindutan upang mag-draft ng mga file ng invoice upang mabilis na mabago ang sanggunian ng invoice.
+ChangeInvoiceRef=Baguhin ang sanggunian
+NewInvoiceRef=Bagong sanggunian
+Change=Upang baguhin
+Cancel=Kanselahin

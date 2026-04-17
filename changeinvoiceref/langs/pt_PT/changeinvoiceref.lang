@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:19:01 CET
+CHARSET=UTF-8
+Module136392Name=Alterar referência da fatura
+Module136392Desc=Módulo para alteração da referência de um projeto de fatura
+ChangeInvoiceRefSetup=Ref. da fatura de alteração de configuração
+ChangeInvoiceRefInfo=Este módulo adiciona um botão para rascunhar arquivos de faturas para modificar rapidamente a referência da fatura.
+ChangeInvoiceRef=Alterar referência
+NewInvoiceRef=Nova referência
+Change=Para modificar
+Cancel=Cancelar

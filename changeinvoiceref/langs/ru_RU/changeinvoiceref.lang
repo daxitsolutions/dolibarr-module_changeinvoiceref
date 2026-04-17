@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:21:13 CET
+CHARSET=UTF-8
+Module136392Name=Изменить ссылку на счет-фактуру
+Module136392Desc=Модуль изменения ссылки на проект счета-фактуры
+ChangeInvoiceRefSetup=Ссылка на счет за изменение конфигурации
+ChangeInvoiceRefInfo=Этот модуль добавляет кнопку для черновиков файлов счетов, позволяющую быстро изменить ссылку на счет.
+ChangeInvoiceRef=Изменить ссылку
+NewInvoiceRef=Новая ссылка
+Change=Чтобы изменить
+Cancel=Отмена

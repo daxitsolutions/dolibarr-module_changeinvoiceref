@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:23:57 CET
+CHARSET=UTF-8
+Module136392Name=Ubah Referensi Faktur
+Module136392Desc=Modul untuk mengubah referensi draft invoice
+ChangeInvoiceRefSetup=Referensi Faktur Perubahan Konfigurasi
+ChangeInvoiceRefInfo=Modul ini menambahkan tombol ke draf file faktur untuk mengubah referensi faktur dengan cepat.
+ChangeInvoiceRef=Ubah referensi
+NewInvoiceRef=Referensi baru
+Change=Untuk memodifikasi
+Cancel=Membatalkan

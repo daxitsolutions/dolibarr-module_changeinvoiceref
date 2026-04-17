@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:25:53 CET
+CHARSET=UTF-8
+Module136392Name=Ndryshimi i faturës Ref
+Module136392Desc=Moduli për ndryshimin e referencës së një draft faturë
+ChangeInvoiceRefSetup=Konfigurimi Ndryshimi i faturës Ref
+ChangeInvoiceRefInfo=Ky modul shton një buton për hartimin e skedarëve të faturës për të modifikuar shpejt referencën e faturës.
+ChangeInvoiceRef=Ndrysho referencën
+NewInvoiceRef=Referencë e re
+Change=Për të modifikuar
+Cancel=Anulo

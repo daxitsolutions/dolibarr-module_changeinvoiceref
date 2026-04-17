@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:21:19 CET
+CHARSET=UTF-8
+Module136392Name=Змінити номер рахунка-фактури
+Module136392Desc=Модуль для зміни посилання чернетки рахунку-фактури
+ChangeInvoiceRefSetup=Конфігурація Змінити рахунок-фактуру Ref
+ChangeInvoiceRefInfo=Цей модуль додає кнопку для проектів файлів рахунків-фактур, щоб швидко змінити посилання на рахунок-фактуру.
+ChangeInvoiceRef=Змінити посилання
+NewInvoiceRef=Нова довідка
+Change=Щоб змінити
+Cancel=Скасувати

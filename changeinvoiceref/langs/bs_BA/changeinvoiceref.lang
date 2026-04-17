@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:25:43 CET
+CHARSET=UTF-8
+Module136392Name=Promjena fakture Ref
+Module136392Desc=Modul za promjenu reference nacrt fakture
+ChangeInvoiceRefSetup=Promjena konfiguracije Faktura Ref
+ChangeInvoiceRefInfo=Ovaj modul dodaje dugme za datoteke nacrta faktura za brzu izmjenu reference fakture.
+ChangeInvoiceRef=Promjena reference
+NewInvoiceRef=Nova referenca
+Change=Za modifikaciju
+Cancel=Otkaži

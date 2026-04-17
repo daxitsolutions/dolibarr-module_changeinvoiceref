@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:24:29 CET
+CHARSET=UTF-8
+Module136392Name=ইনভয়েস রেফ পরিবর্তন করুন
+Module136392Desc=একটি খসড়া চালানের রেফারেন্স পরিবর্তন করার জন্য মডিউল
+ChangeInvoiceRefSetup=কনফিগারেশন পরিবর্তন চালান রেফ
+ChangeInvoiceRefInfo=চালান রেফারেন্স দ্রুত পরিবর্তন করতে এই মডিউলটি চালান ফাইলের খসড়াতে একটি বোতাম যোগ করে।
+ChangeInvoiceRef=রেফারেন্স পরিবর্তন করুন
+NewInvoiceRef=নতুন রেফারেন্স
+Change=পরিবর্তন করতে
+Cancel=বাতিল করুন

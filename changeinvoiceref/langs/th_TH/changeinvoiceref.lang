@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:22:35 CET
+CHARSET=UTF-8
+Module136392Name=เปลี่ยนใบแจ้งหนี้อ้างอิง
+Module136392Desc=โมดูลสำหรับการเปลี่ยนแปลงการอ้างอิงร่างใบแจ้งหนี้
+ChangeInvoiceRefSetup=การอ้างอิงใบแจ้งหนี้การเปลี่ยนแปลงการกำหนดค่า
+ChangeInvoiceRefInfo=โมดูลนี้จะเพิ่มปุ่มให้กับร่างไฟล์ใบแจ้งหนี้เพื่อแก้ไขการอ้างอิงใบแจ้งหนี้อย่างรวดเร็ว
+ChangeInvoiceRef=เปลี่ยนการอ้างอิง
+NewInvoiceRef=ข้อมูลอ้างอิงใหม่
+Change=เพื่อปรับเปลี่ยน
+Cancel=ยกเลิก

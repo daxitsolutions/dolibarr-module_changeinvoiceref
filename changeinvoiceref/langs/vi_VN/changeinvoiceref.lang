@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:22:25 CET
+CHARSET=UTF-8
+Module136392Name=Thay đổi tham chiếu hóa đơn
+Module136392Desc=Module thay đổi tham chiếu hóa đơn dự thảo
+ChangeInvoiceRefSetup=Tham chiếu Hóa đơn Thay đổi Cấu hình
+ChangeInvoiceRefInfo=Mô-đun này thêm một nút vào tệp hóa đơn dự thảo để nhanh chóng sửa đổi tham chiếu hóa đơn.
+ChangeInvoiceRef=Thay đổi tham chiếu
+NewInvoiceRef=Tài liệu tham khảo mới
+Change=Để sửa đổi
+Cancel=Hủy bỏ

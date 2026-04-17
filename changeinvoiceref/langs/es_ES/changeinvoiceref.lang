@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:18:25 CET
+CHARSET=UTF-8
+Module136392Name=Cambiar referencia de factura
+Module136392Desc=Módulo para cambiar la referencia de un borrador de factura
+ChangeInvoiceRefSetup=Ref de factura de cambio de configuración
+ChangeInvoiceRefInfo=Este módulo agrega un botón para redactar archivos de facturas para modificar rápidamente la referencia de la factura.
+ChangeInvoiceRef=Cambiar referencia
+NewInvoiceRef=Nueva referencia
+Change=para modificar
+Cancel=Cancelar

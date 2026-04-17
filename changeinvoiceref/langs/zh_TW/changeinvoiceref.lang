@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:21:59 CET
+CHARSET=UTF-8
+Module136392Name=更改發票參考
+Module136392Desc=用於更改草稿發票參考的模塊
+ChangeInvoiceRefSetup=配置更改發票參考
+ChangeInvoiceRefInfo=該模塊添加了一個草稿發票文件按鈕，以快速修改發票參考。
+ChangeInvoiceRef=更改參考
+NewInvoiceRef=新參考
+Change=修改
+Cancel=取消

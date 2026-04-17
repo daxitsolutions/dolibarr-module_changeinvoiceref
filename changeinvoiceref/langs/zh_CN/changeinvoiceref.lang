@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:21:47 CET
+CHARSET=UTF-8
+Module136392Name=Change Invoice Ref
+Module136392Desc=用于更改草稿发票参考的模块
+ChangeInvoiceRefSetup=Configuration Change Invoice Ref
+ChangeInvoiceRefInfo=该模块添加了一个草稿发票文件按钮，以快速修改发票参考。
+ChangeInvoiceRef=更改参考
+NewInvoiceRef=新参考
+Change=修改
+Cancel=取消

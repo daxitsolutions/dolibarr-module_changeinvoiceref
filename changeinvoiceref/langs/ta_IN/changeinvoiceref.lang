@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:24:39 CET
+CHARSET=UTF-8
+Module136392Name=இன்வாய்ஸை மாற்றவும்
+Module136392Desc=வரைவு விலைப்பட்டியல் குறிப்பை மாற்றுவதற்கான தொகுதி
+ChangeInvoiceRefSetup=உள்ளமைவு மாற்றம் விலைப்பட்டியல் குறிப்பு
+ChangeInvoiceRefInfo=இந்த தொகுதி விலைப்பட்டியல் குறிப்பை விரைவாக மாற்ற, விலைப்பட்டியல் கோப்புகளை வரைவதற்கான பொத்தானைச் சேர்க்கிறது.
+ChangeInvoiceRef=குறிப்பை மாற்றவும்
+NewInvoiceRef=புதிய குறிப்பு
+Change=மாற்றியமைக்க
+Cancel=ரத்து செய்

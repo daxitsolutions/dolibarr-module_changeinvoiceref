@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:24:07 CET
+CHARSET=UTF-8
+Module136392Name=Tukar Invois Ruj
+Module136392Desc=Modul untuk menukar rujukan draf invois
+ChangeInvoiceRefSetup=Ruj Invois Perubahan Konfigurasi
+ChangeInvoiceRefInfo=Modul ini menambah butang untuk mendraf fail invois untuk mengubah suai rujukan invois dengan cepat.
+ChangeInvoiceRef=Tukar rujukan
+NewInvoiceRef=Rujukan baru
+Change=Untuk mengubah suai
+Cancel=Batal

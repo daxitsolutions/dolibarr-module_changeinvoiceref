@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:19:15 CET
+CHARSET=UTF-8
+Module136392Name=Canvi factura ref
+Module136392Desc=Mòdul per canviar la referència d'un esborrany de factura
+ChangeInvoiceRefSetup=Factura de canvi de configuració Ref
+ChangeInvoiceRefInfo=Aquest mòdul afegeix un botó als fitxers d'esborrany de factures per modificar ràpidament la referència de la factura.
+ChangeInvoiceRef=Canvia la referència
+NewInvoiceRef=Nova referència
+Change=Modifier
+Cancel=Cancel·la

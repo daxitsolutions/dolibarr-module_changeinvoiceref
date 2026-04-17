@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:22:47 CET
+CHARSET=UTF-8
+Module136392Name=Ændring af fakturaref
+Module136392Desc=Modul til ændring af referencen på en udkast til faktura
+ChangeInvoiceRefSetup=Konfigurationsændring Faktura Ref
+ChangeInvoiceRefInfo=Dette modul tilføjer en knap til udkast til fakturafiler for hurtigt at ændre fakturareferencen.
+ChangeInvoiceRef=Skift reference
+NewInvoiceRef=Ny reference
+Change=At ændre
+Cancel=Ophæve

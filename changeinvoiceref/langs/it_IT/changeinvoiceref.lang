@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:18:41 CET
+CHARSET=UTF-8
+Module136392Name=Modifica rif. fattura
+Module136392Desc=Modulo per modificare il riferimento di una bozza di fattura
+ChangeInvoiceRefSetup=Rif. fattura modifica configurazione
+ChangeInvoiceRefInfo=Questo modulo aggiunge un pulsante alle bozze dei file delle fatture per modificare rapidamente il riferimento della fattura.
+ChangeInvoiceRef=Cambia riferimento
+NewInvoiceRef=Nuovo riferimento
+Change=Per modificare
+Cancel=Cancellare

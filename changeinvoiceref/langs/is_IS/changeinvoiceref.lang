@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:25:21 CET
+CHARSET=UTF-8
+Module136392Name=Breyta reikningsskr
+Module136392Desc=Eining til að breyta tilvísun reikningsuppkasts
+ChangeInvoiceRefSetup=Stillingar Breyta Reikningar Ref
+ChangeInvoiceRefInfo=Þessi eining bætir við hnappi til að leggja drög að reikningsskrám til að breyta tilvísun reiknings fljótt.
+ChangeInvoiceRef=Breyta tilvísun
+NewInvoiceRef=Ný tilvísun
+Change=Til að breyta
+Cancel=Hætta við

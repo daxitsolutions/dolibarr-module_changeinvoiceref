@@ -1,0 +1,8 @@
+Module136392Name=Change Invoice Ref
+Module136392Desc=Module pour changer la référence d'une facture brouillon
+ChangeInvoiceRefSetup=Configuration Change Invoice Ref
+ChangeInvoiceRefInfo=Ce module ajoute un bouton sur les fiches factures brouillon pour modifier rapidement la référence de la facture.
+ChangeInvoiceRef=Changer la référence
+NewInvoiceRef=Nouvelle référence
+Change=Modifier
+Cancel=Annuler

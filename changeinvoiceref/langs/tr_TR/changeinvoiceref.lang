@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:21:02 CET
+CHARSET=UTF-8
+Module136392Name=Fatura Referansını Değiştir
+Module136392Desc=Taslak faturanın referansını değiştirme modülü
+ChangeInvoiceRefSetup=Yapılandırma Değişikliği Fatura Ref
+ChangeInvoiceRefInfo=Bu modül, fatura referansını hızla değiştirmek amacıyla fatura dosyalarının taslağını oluşturmak için bir düğme ekler.
+ChangeInvoiceRef=Referansı değiştir
+NewInvoiceRef=Yeni referans
+Change=Değiştirmek için
+Cancel=İptal etmek

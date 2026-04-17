@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:18:17 CET
+CHARSET=UTF-8
+Module136392Name=Change Invoice Ref
+Module136392Desc=Module for changing the reference of a draft invoice
+ChangeInvoiceRefSetup=Configuration Change Invoice Ref
+ChangeInvoiceRefInfo=This module adds a button to draft invoice files to quickly modify the invoice reference.
+ChangeInvoiceRef=Change reference
+NewInvoiceRef=New reference
+Change=To modify
+Cancel=Cancel

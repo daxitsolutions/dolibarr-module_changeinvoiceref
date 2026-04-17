@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:23:36 CET
+CHARSET=UTF-8
+Module136392Name=Mainīt rēķina Nr
+Module136392Desc=Modulis rēķina projekta atsauces maiņai
+ChangeInvoiceRefSetup=Konfigurācijas maiņas rēķins Nr
+ChangeInvoiceRefInfo=Šis modulis pievieno pogu rēķinu failu uzmetumam, lai ātri mainītu rēķina atsauci.
+ChangeInvoiceRef=Mainīt atsauci
+NewInvoiceRef=Jauna atsauce
+Change=Lai modificētu
+Cancel=Atcelt

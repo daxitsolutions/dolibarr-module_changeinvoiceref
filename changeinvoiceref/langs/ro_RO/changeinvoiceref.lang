@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:20:07 CET
+CHARSET=UTF-8
+Module136392Name=Modificare factura ref
+Module136392Desc=Modul pentru modificarea referinței unui proiect de factură
+ChangeInvoiceRefSetup=Ref. factură modificare configurație
+ChangeInvoiceRefInfo=Acest modul adaugă un buton la proiectele de fișiere de factură pentru a modifica rapid referința facturii.
+ChangeInvoiceRef=Schimbați referința
+NewInvoiceRef=Referință nouă
+Change=A modifica
+Cancel=Anula

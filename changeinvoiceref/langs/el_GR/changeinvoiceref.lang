@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:20:49 CET
+CHARSET=UTF-8
+Module136392Name=Change Invoice Ref
+Module136392Desc=Ενότητα αλλαγής αναφοράς πρόχειρου τιμολογίου
+ChangeInvoiceRefSetup=Configuration Change Invoice Ref
+ChangeInvoiceRefInfo=Αυτή η ενότητα προσθέτει ένα κουμπί για σύνταξη αρχείων τιμολογίου για γρήγορη τροποποίηση της αναφοράς τιμολογίου.
+ChangeInvoiceRef=Αλλαγή αναφοράς
+NewInvoiceRef=Νέα αναφορά
+Change=Για τροποποίηση
+Cancel=Ματαίωση

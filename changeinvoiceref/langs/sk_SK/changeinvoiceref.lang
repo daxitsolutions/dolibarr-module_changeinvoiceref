@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:19:46 CET
+CHARSET=UTF-8
+Module136392Name=Zmeniť ref. faktúry
+Module136392Desc=Modul pre zmenu referencie návrhu faktúry
+ChangeInvoiceRefSetup=Zmena konfigurácie Faktúra Ref
+ChangeInvoiceRefInfo=Tento modul pridáva tlačidlo do súborov návrhov faktúr, aby ste mohli rýchlo upraviť referenciu faktúry.
+ChangeInvoiceRef=Zmeniť referenciu
+NewInvoiceRef=Nová referencia
+Change=Na úpravu
+Cancel=Zrušiť

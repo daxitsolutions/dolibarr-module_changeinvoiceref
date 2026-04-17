@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:23:18 CET
+CHARSET=UTF-8
+Module136392Name=Muuta laskun viite
+Module136392Desc=Moduuli laskuluonnoksen viitteen muuttamiseen
+ChangeInvoiceRefSetup=Kokoonpanon muutos laskun viite
+ChangeInvoiceRefInfo=Tämä moduuli lisää laskutiedostojen luonnospainikkeen, jolla voit muuttaa laskuviitettä nopeasti.
+ChangeInvoiceRef=Muuta viittausta
+NewInvoiceRef=Uusi referenssi
+Change=Muokkaamaan
+Cancel=Peruuttaa

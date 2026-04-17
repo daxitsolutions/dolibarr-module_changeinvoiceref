@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:18:50 CET
+CHARSET=UTF-8
+Module136392Name=Factuurref. wijzigen
+Module136392Desc=Module voor het wijzigen van de referentie van een conceptfactuur
+ChangeInvoiceRefSetup=Configuratiewijzigingsfactuur Ref
+ChangeInvoiceRefInfo=Deze module voegt een knop toe om factuurbestanden op te stellen, zodat u snel de factuurreferentie kunt wijzigen.
+ChangeInvoiceRef=Referentie wijzigen
+NewInvoiceRef=Nieuwe referentie
+Change=Wijzigen
+Cancel=Annuleren

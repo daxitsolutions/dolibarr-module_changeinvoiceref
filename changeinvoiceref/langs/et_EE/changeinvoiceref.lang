@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:23:27 CET
+CHARSET=UTF-8
+Module136392Name=Muuda arve viite
+Module136392Desc=Arve mustandi viite muutmise moodul
+ChangeInvoiceRefSetup=Konfiguratsiooni muutmise arve viide
+ChangeInvoiceRefInfo=See moodul lisab nupu arvefailide mustandite jaoks, et arve viidet kiiresti muuta.
+ChangeInvoiceRef=Muuda viidet
+NewInvoiceRef=Uus viide
+Change=Muutmiseks
+Cancel=Tühista

@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:23:48 CET
+CHARSET=UTF-8
+Module136392Name=Pakeisti sąskaitos faktūros Nr
+Module136392Desc=Sąskaitos faktūros projekto nuorodos keitimo modulis
+ChangeInvoiceRefSetup=Konfigūracijos keitimo sąskaitos faktūros Nr
+ChangeInvoiceRefInfo=Šis modulis prideda mygtuką, skirtą sąskaitų faktūrų failams, kad būtų galima greitai pakeisti sąskaitos faktūros nuorodą.
+ChangeInvoiceRef=Keisti nuorodą
+NewInvoiceRef=Nauja nuoroda
+Change=Norėdami modifikuoti
+Cancel=Atšaukti

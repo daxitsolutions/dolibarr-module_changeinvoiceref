@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:19:56 CET
+CHARSET=UTF-8
+Module136392Name=Számlaszám módosítása ref
+Module136392Desc=Számlatervezet hivatkozásának megváltoztatására szolgáló modul
+ChangeInvoiceRefSetup=Konfiguráció módosítása számla ref
+ChangeInvoiceRefInfo=Ez a modul hozzáad egy gombot a számlafájlok vázlatához, amellyel gyorsan módosíthatja a számla hivatkozását.
+ChangeInvoiceRef=Referencia módosítása
+NewInvoiceRef=Új referencia
+Change=Módosítani
+Cancel=Mégse

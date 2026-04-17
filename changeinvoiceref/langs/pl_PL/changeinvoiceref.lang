@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:19:25 CET
+CHARSET=UTF-8
+Module136392Name=Zmień nr faktury
+Module136392Desc=Moduł umożliwiający zmianę referencji projektu faktury
+ChangeInvoiceRefSetup=Konfiguracja Zmień numer faktury
+ChangeInvoiceRefInfo=Moduł ten dodaje przycisk do tworzenia plików faktur, umożliwiający szybką modyfikację numeru faktury.
+ChangeInvoiceRef=Zmień referencję
+NewInvoiceRef=Nowe odniesienie
+Change=Aby zmodyfikować
+Cancel=Anulować

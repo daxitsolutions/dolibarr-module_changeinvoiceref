@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:18:33 CET
+CHARSET=UTF-8
+Module136392Name=Rechnungsreferenz ändern
+Module136392Desc=Modul zum Ändern der Referenz eines Rechnungsentwurfs
+ChangeInvoiceRefSetup=Konfigurationsänderung, Rechnungsreferenz
+ChangeInvoiceRefInfo=Dieses Modul fügt eine Schaltfläche zum Erstellen von Rechnungsdateien hinzu, um die Rechnungsreferenz schnell zu ändern.
+ChangeInvoiceRef=Referenz ändern
+NewInvoiceRef=Neue Referenz
+Change=Zu ändern
+Cancel=Stornieren

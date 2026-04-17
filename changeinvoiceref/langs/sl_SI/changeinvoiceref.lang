@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:25:32 CET
+CHARSET=UTF-8
+Module136392Name=Spremeni ref. računa
+Module136392Desc=Modul za spremembo sklica osnutka računa
+ChangeInvoiceRefSetup=Konfiguracija Sprememba računa Ref
+ChangeInvoiceRefInfo=Ta modul doda gumb za osnutke datotek z računi za hitro spreminjanje sklica na račun.
+ChangeInvoiceRef=Spremeni referenco
+NewInvoiceRef=Nova referenca
+Change=Za spreminjanje
+Cancel=Prekliči

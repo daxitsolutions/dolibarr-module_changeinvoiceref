@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:22:15 CET
+CHARSET=UTF-8
+Module136392Name=송장 참조 변경
+Module136392Desc=송장 초안 참조 변경 모듈
+ChangeInvoiceRefSetup=구성 변경 송장 참조
+ChangeInvoiceRefInfo=이 모듈은 송장 참조를 신속하게 수정할 수 있도록 초안 송장 파일에 버튼을 추가합니다.
+ChangeInvoiceRef=참조 변경
+NewInvoiceRef=새로운 참조
+Change=수정하려면
+Cancel=취소

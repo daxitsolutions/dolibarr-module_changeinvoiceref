@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:20:38 CET
+CHARSET=UTF-8
+Module136392Name=Промена фактуре Реф
+Module136392Desc=Модул за промену референце нацрта фактуре
+ChangeInvoiceRefSetup=Промена конфигурације Фактура Реф
+ChangeInvoiceRefInfo=Овај модул додаје дугме за датотеке нацрта фактура да бисте брзо изменили референцу фактуре.
+ChangeInvoiceRef=Промените референцу
+NewInvoiceRef=Нова референца
+Change=Да модификујете
+Cancel=Откажи

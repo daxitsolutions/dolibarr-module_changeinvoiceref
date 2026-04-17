@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:24:19 CET
+CHARSET=UTF-8
+Module136392Name=चालान संदर्भ बदलें
+Module136392Desc=ड्राफ्ट चालान का संदर्भ बदलने के लिए मॉड्यूल
+ChangeInvoiceRefSetup=कॉन्फ़िगरेशन परिवर्तन चालान संदर्भ
+ChangeInvoiceRefInfo=यह मॉड्यूल इनवॉइस संदर्भ को शीघ्रता से संशोधित करने के लिए इनवॉइस फ़ाइलों को ड्राफ्ट करने के लिए एक बटन जोड़ता है।
+ChangeInvoiceRef=संदर्भ बदलें
+NewInvoiceRef=नया संदर्भ
+Change=संशोधित करना
+Cancel=रद्द करना

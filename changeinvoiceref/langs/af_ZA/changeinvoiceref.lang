@@ -1,0 +1,10 @@
+# Auto-generated from fr_FR on ven.  9 janv. 2026 17:25:02 CET
+CHARSET=UTF-8
+Module136392Name=Verander faktuurverw
+Module136392Desc=Module om die verwysing van 'n konsepfaktuur te verander
+ChangeInvoiceRefSetup=Konfigurasie Verander faktuur Verw
+ChangeInvoiceRefInfo=Hierdie module voeg 'n knoppie by om faktuurlêers op te stel om die faktuurverwysing vinnig te wysig.
+ChangeInvoiceRef=Verander verwysing
+NewInvoiceRef=Nuwe verwysing
+Change=Om te wysig
+Cancel=Kanselleer
